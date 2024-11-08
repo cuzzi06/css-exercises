@@ -4,6 +4,11 @@
     font-size: 20px;
 }
 
-.odd .grande {
+.odd.grande {
     font-size: 40px;
+}
+
+#even-big {
+    color: blue;
+    font-size: 100px;
 }
