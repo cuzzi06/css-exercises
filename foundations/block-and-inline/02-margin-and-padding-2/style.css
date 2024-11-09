@@ -13,14 +13,18 @@ body {
 
 .title {
   background: #e3f4ff;
+  margin: 0 0 8px;
+  font-family: 16px;
 }
 
 .content {
   background: #e3f4ff;
+  margin: 8px 0;
 }
 
 .button-container {
   background: #e3f4ff;
+  margin: 8px 0 0;
 }
 
 button {
